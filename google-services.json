@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531520126283",
+    "firebase_url": "https://hering-facilidades.firebaseio.com",
+    "project_id": "hering-facilidades",
+    "storage_bucket": "hering-facilidades.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531520126283:android:4ef0fe775a4cb7b1",
+        "android_client_info": {
+          "package_name": "br.com.senior.ssm.hering.facilidades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531520126283-d6kbaim7mcbaf2sp62p49d4pkjlrri8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfsQkSE1PfZcPaO6fyejKbb5dXG_BWKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
